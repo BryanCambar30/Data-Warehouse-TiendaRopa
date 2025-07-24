@@ -2,7 +2,7 @@
 
 ## 📌 Español
 
-Este repositorio contiene un proyecto académico realizado como parte del curso de **Bases de Datos II**, enfocado en el diseño e implementación de un **Data Warehouse** para una tienda de ropa. Su finalidad es permitir el análisis de información histórica de ventas, optimizando la toma de decisiones mediante consultas SQL en SQL Server.
+Este repositorio contiene un proyecto de análisis de datos implementado con **SQL Server**, diseñado para construir un **Data Warehouse** enfocado en una tienda de ropa. Su finalidad es permitir el análisis de información histórica de ventas, optimizando la toma de decisiones mediante consultas SQL en SQL Server.
 
 ### 🎯 Objetivos del proyecto
 
@@ -45,37 +45,11 @@ This repository contains a data analysis project built with **SQL Server**, focu
 
 ### 🧠 System Components
 
-- Dimensional modeling (**Star** and/or **Snowflake** schema)
-- Fact and Dimension tables
-- Data load process (**ETL**) using `.sql` scripts
-- Analytical SQL queries in SQL Server
-
-### 📁 Repository Structure
-
-
-> 💡 *Este proyecto es ideal como base para análisis más complejos, prácticas de ETL, y enseñanza de técnicas de modelado de datos.*
-
----
-
-## 🌐 English Version
-
-This repository contains an academic project developed for the **Databases II** course, focused on designing and implementing a **Data Warehouse** for a clothing store. Its main goal is to analyze sales history and support strategic decisions using SQL queries in SQL Server.
-
-### 🎯 Project Objectives
-
-- 🕒 Identify the **most active sales hour**
-- 🛍️ Determine the **most sold product**
-- 🧑‍💼 Find the **top-performing seller**
-
-### 🧠 System Overview
-
 - Dimensional modeling (**Star** / **Snowflake** schema)
 - SQL Server database
 - Fact and Dimension tables
 - ETL process via `.sql` scripts
 - Analytical queries and reporting documents
-
----
 
 
 ### 📊 Evaluated Metrics
